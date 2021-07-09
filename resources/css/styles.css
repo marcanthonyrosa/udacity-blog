@@ -283,7 +283,7 @@ button:hover {
     background-color: rgb(241, 243, 245);
 }
 
-.navigation:before {
+/* .navigation:before {
     content:"";
     z-index:-1;
     position:absolute;
@@ -291,7 +291,7 @@ button:hover {
     right:-100vw;
     background:inherit;
     height:100px;
-}
+} */
 
 
 .foot {
@@ -308,7 +308,7 @@ button:hover {
     font-size: 80%;
 }
 
-.foot:before {
+/* .foot:before {
     content:"";
     z-index:-1;
     position:absolute;
@@ -316,7 +316,7 @@ button:hover {
     right:-100vw;
     background:inherit;
     height:40px;
-}
+} */
 
 .url-markup {
     text-decoration:underline;
